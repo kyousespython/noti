@@ -351,7 +351,7 @@ infoImage.BackgroundTransparency = 1
 infoImage.BorderSizePixel = 0
 infoImage.Position = UDim2.new(0, 15, 0.5, 0)
 infoImage.Size = UDim2.new(0, 20, 0, 20)
-infoImage.Image = "rbxassetid://14159919234"
+infoImage.Image = "rbxassetid://9072920609"
 infoImage.ImageColor3 = Color3.fromRGB(50, 131, 226)
 
 infoInformationFrame.Name = "informationFrame"
